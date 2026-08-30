@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: #894bca;
+    width: 100vw;
+    height: 180px;
+
+}
+
+.heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    width: 150px;
+    padding: 20px;
+}
+
+.image {
+
+    width: 100vw;
+    margin: 5px;
+}
+
+.heading1 {
+    color: #f780c3;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    padding: 20px;
+}
+
+.bottom-card {
+    background-color: white;
+    margin: 15px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
+.image1 {
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+}
+
+.bottom-head {
+    font-size: 18px;
+    font-family: "Roboto";
+    margin: 10px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.bottom-paragraph {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: #7b8794;
+    padding: 6px;
+}
