@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #875fc0;
+    height: 100vh;
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    text-align: center;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 24px;
+    font-weight: normal;
+    color: #1f2933;
+
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: normal;
+    color: #323f4b;
+}
+
+.heading0 {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #fbaf00;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    border-width: 0px;
+    font-size: 15px;
+    
+}
+
+.list {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #0a1f44;
+    font-weight: 500;
+    margin-top: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card1 {
+    background-color: white;
+     padding-left: 60px;
+    padding-top: 20px;
+    margin: 15px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    
+
+}
+
+.image {
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+}
+.c-card{
+    background-color: #875fc0;
+    color: white;
+}
+.option-list{
+    list-style-type: none;
+    padding: 0px;
+}

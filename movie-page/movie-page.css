@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height: 100vh;
+    background-size: cover;
+
+
+}
+.card-container{
+    padding: 20px;
+}
+
+.text-container {
+     margin-top: 10px;
+     margin-bottom: 10px;
+}
+
+.heading {
+    color: white;
+    font-size: 28px;
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: white;
+   
+}
+
+.btn-light {
+    color: #ff8348;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 10px;
+   
+}
+
+.heading1 {
+    color: #ffffff;
+    font-size: 17px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+ 
+.image-1{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ 

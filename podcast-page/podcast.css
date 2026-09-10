@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section {
+    background-image: url(" https://d2clawv67efefq.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.image1 {
+    height: 100px;
+    width: 130px;
+    margin: 20px;
+}
+
+.text-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.heading {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #183b56;
+    margin: 10px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #5a7184;
+    font-weight: 500;
+
+
+}
+
+.heading1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 26px;
+    padding: 20px;
+}
+
+.pod-container {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.bg-container1 {
+    background-color: #151765;
+
+}
+
+.puri-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding: 0px;
+
+}
+
+.puri-paragraph {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.btn {
+    border-radius: 20px;
+    color: white;
+    background-color: #151765;
+    width: 80px;
+
+    text-align: center;
+    font-size: 12px;
+}
+
+.puri-container {
+    padding: 10px;
+}
