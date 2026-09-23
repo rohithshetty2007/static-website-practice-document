@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.imagemain {
+    height: 230px;
+    width: 300px;
+    margin-left: 40px;
+    
+}
+
+.headingproject {
+
+    font-family: "Roboto";
+    font-size: 23px;
+    color: #183b56;
+    padding: 5px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #616e7c;
+    font-weight: 500;
+}
+
+.image1 {
+    height: 100px;
+    width: 180px;
+    margin: 5px;
+
+}
+.advance-container {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 900px;
+    
+    background-size: cover;
+}
+
+.cardadvance {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 15px;
+
+}
+
+.headingadvance {
+    color: #5752ab;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.paragraphadvance {
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.buttonadvance {
+    border-radius: 6px;
+    border-width: 1px;
+    height: 40px;
+    width: 120px;
+    border-color: #d7dfe9;
+    color: #171f46;
+    background-color: #ffffff;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.button2advance {
+    color: #ffffff;
+    border-color: #d7dfe9;
+    height: 40px;
+    width: 120px;
+    background-color: #5752ab;
+    border-radius: 6px;
+    border-width: 1px;
+    margin-left: 5px;
+}
+.top-section {
+    background-image: url('https://plus.unsplash.com/premium_photo-1729038870013-574dd8fee186?q=80&w=1235&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    height: 180px;
+}
+
+.heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 35px;
+    width: 150px;
+    padding: 10px;
+}
+
+.bottom-section {
+    background-color: #BBDFF0;
+    text-align: center;
+    padding: 10px;
+}
+
+.bottom-card {
+    background-color: white;
+    width: 200px;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+
+}
+
+.image {
+    height: 60px;
+    width: 60px;
+    margin: 10px;
+}
+
+.card-head {
+    font-size: 15px;
+    font-family: "Roboto";
+    margin: 10px;
+}
+
+.card-price {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+.food-container {
+    background-image: url(' https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png');
+    background-size: cover;
+    height: 900px;
+}
+
+.cardfood {
+    background-color: #f6c56d;
+    padding: 16px;
+    color: #323f4b;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.headingfood {
+    font-family: "Bree Serif";
+    font-size: 30px;
+
+}
+
+.paragraphfood {
+    font-weight: bold;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.buttonfood {
+    font-family: "Roboto";
+    background-color: #ffffff;
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 14px;
+    font-weight: normal;
+}
+.news-container {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 900px;
+    background-size: cover;
+}
+
+.cardnews {
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #ffffff;
+}
+
+.paragraphnews {
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.headingnews {
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.paragraphnews2 {
+    font-size: 12px;
+    color: #7b8794;
+}
+
+.button {
+    background-color: #323f4b;
+    color: #ffffff;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    font-size: 12px;
+}
